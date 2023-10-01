@@ -33,3 +33,8 @@ font-family: 'Raleway', sans-serif;
   /* .tablet-two{
     display: flex;
   } */
+  .bold{
+    font-weight: 900;
+    
+    color:rgb(83, 175, 21);
+  }
